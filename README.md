@@ -1,8 +1,8 @@
-# routelab
+# Routelab
 
-routelab is a small Python library for intercepting outbound HTTP calls. It lets you rewrite requests, simulate failures, mock responses, record real traffic, replay it later, and keep a structured event log of what happened.
+Routelab is a Python library for intercepting outbound HTTP calls. It lets you rewrite requests, simulate failures, mock responses, record real traffic, replay it later, and keep a structured event log of what happened.
 
-It is built around `httpx` and keeps the API deliberately small.
+It is built around `httpx`.
 
 ## What it does
 
