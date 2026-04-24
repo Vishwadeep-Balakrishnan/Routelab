@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "routelab"
+name = "routelab-http"
 version = "0.1.0"
 description = "Intercept, simulate, replay, and observe outbound HTTP traffic from Python applications."
 readme = "README.md"
