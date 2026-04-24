@@ -9,7 +9,7 @@ description = "Intercept, simulate, replay, and observe outbound HTTP traffic fr
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-  { name = "OpenAI" }
+  { name = "Vishwadeep Balakrishnan" }
 ]
 dependencies = [
   "httpx>=0.27,<1",
