@@ -151,4 +151,4 @@ routelab/
 
 ## Notes
 
-This version is intentionally sync-first and `httpx`-only. It is meant to be simple to read and easy to extend.
+This version is sync-first and `httpx`-only. It is meant to be simple to read and easy to extend.
